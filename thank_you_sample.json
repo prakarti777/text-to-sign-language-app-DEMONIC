@@ -1,0 +1,159 @@
+{
+  "gestureName": "thank_you",
+  "fps": 30.0,
+  "width": 1080,
+  "height": 1920,
+  "totalFrames": 2,
+  "frames": [
+    {
+      "frameIndex": 0,
+      "timestampMs": 0,
+      "poseDetected": true,
+      "leftHandDetected": true,
+      "rightHandDetected": true,
+      "rawPose": [
+        {
+          "x": 0.1,
+          "y": 0.2,
+          "z": -0.1,
+          "visibility": 0.99,
+          "presence": 0.99
+        },
+        {
+          "x": 0.12,
+          "y": 0.22,
+          "z": -0.11,
+          "visibility": 0.98,
+          "presence": 0.98
+        }
+      ],
+      "rawLeftHand": [
+        {
+          "x": 0.3,
+          "y": 0.4,
+          "z": 0.05
+        },
+        {
+          "x": 0.32,
+          "y": 0.42,
+          "z": 0.06
+        }
+      ],
+      "rawRightHand": [
+        {
+          "x": 0.5,
+          "y": 0.6,
+          "z": -0.05
+        },
+        {
+          "x": 0.52,
+          "y": 0.62,
+          "z": -0.06
+        }
+      ],
+      "normalizedPose": [
+        {
+          "x": 0.1,
+          "y": 0.2,
+          "z": -0.1,
+          "visibility": 0.99,
+          "presence": 0.99
+        },
+        {
+          "x": 0.12,
+          "y": 0.22,
+          "z": -0.11,
+          "visibility": 0.98,
+          "presence": 0.98
+        }
+      ],
+      "normalizedLeftHand": [
+        {
+          "x": 0.3,
+          "y": 0.4,
+          "z": 0.05
+        },
+        {
+          "x": 0.32,
+          "y": 0.42,
+          "z": 0.06
+        }
+      ],
+      "normalizedRightHand": [
+        {
+          "x": 0.5,
+          "y": 0.6,
+          "z": -0.05
+        },
+        {
+          "x": 0.52,
+          "y": 0.62,
+          "z": -0.06
+        }
+      ]
+    },
+    {
+      "frameIndex": 1,
+      "timestampMs": 33,
+      "poseDetected": true,
+      "leftHandDetected": true,
+      "rightHandDetected": false,
+      "rawPose": [
+        {
+          "x": 0.1,
+          "y": 0.2,
+          "z": -0.1,
+          "visibility": 0.99,
+          "presence": 0.99
+        },
+        {
+          "x": 0.12,
+          "y": 0.22,
+          "z": -0.11,
+          "visibility": 0.98,
+          "presence": 0.98
+        }
+      ],
+      "rawLeftHand": [
+        {
+          "x": 0.3,
+          "y": 0.4,
+          "z": 0.05
+        },
+        {
+          "x": 0.32,
+          "y": 0.42,
+          "z": 0.06
+        }
+      ],
+      "normalizedPose": [
+        {
+          "x": 0.1,
+          "y": 0.2,
+          "z": -0.1,
+          "visibility": 0.99,
+          "presence": 0.99
+        },
+        {
+          "x": 0.12,
+          "y": 0.22,
+          "z": -0.11,
+          "visibility": 0.98,
+          "presence": 0.98
+        }
+      ],
+      "normalizedLeftHand": [
+        {
+          "x": 0.3,
+          "y": 0.4,
+          "z": 0.05
+        },
+        {
+          "x": 0.32,
+          "y": 0.42,
+          "z": 0.06
+        }
+      ]
+    }
+  ]
+}

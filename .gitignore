@@ -1,0 +1,57 @@
+# Built application files
+*.apk
+*.aar
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+**/build/
+
+# Gradle files
+.gradle/
+
+# Local configuration file (contains local paths, keys, etc.)
+local.properties
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+.kotlin/
+
+# External native build folder
+.externalNativeBuild/
+.cxx/
+
+# Captures and logs
+captures/
+*.log
+
+# Keystore / signing files
+*.jks
+*.keystore
+*.key
+*.p12
+*.pem
+
+# Google services / private credentials
+google-services.json
+secrets.xml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Project-specific temporary / large external files
+ffmpeg.zip
+ffmpeg/
+test_out*.mp4
+*.tmp

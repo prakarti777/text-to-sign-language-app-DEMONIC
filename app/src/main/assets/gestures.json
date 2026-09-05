@@ -1,0 +1,885 @@
+[
+  {
+    "id": "no",
+    "video_path": "gestures/no.mp4",
+    "aliases": [
+      "no"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "i_am_fine",
+    "video_path": "gestures/i_am_fine.mp4",
+    "aliases": [
+      "i am fine",
+      "im fine",
+      "i'm fine",
+      "fine"
+    ],
+    "type": "phrase"
+  },
+  {
+    "id": "thank_you",
+    "video_path": "gestures/thank_you.mp4",
+    "aliases": [
+      "thank you",
+      "thanks",
+      "thankyou"
+    ],
+    "type": "phrase"
+  },
+  {
+    "id": "again",
+    "video_path": "gestures/again.mp4",
+    "aliases": [
+      "again"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "answer",
+    "video_path": "gestures/answer.mp4",
+    "aliases": [
+      "answer"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "apartment",
+    "video_path": "gestures/apartment.mp4",
+    "aliases": [
+      "apartment"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "aunt",
+    "video_path": "gestures/aunt.mp4",
+    "aliases": [
+      "aunt"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "bad",
+    "video_path": "gestures/bad.mp4",
+    "aliases": [
+      "bad"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "beautiful",
+    "video_path": "gestures/beautiful.mp4",
+    "aliases": [
+      "beautiful"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "boy",
+    "video_path": "gestures/boy.mp4",
+    "aliases": [
+      "boy"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "bright",
+    "video_path": "gestures/bright.mp4",
+    "aliases": [
+      "bright"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "brother",
+    "video_path": "gestures/brother.mp4",
+    "aliases": [
+      "brother"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "bye_bye",
+    "video_path": "gestures/bye_bye.mp4",
+    "aliases": [
+      "bye-bye",
+      "bye"
+    ],
+    "type": "phrase"
+  },
+  {
+    "id": "camera",
+    "video_path": "gestures/camera.mp4",
+    "aliases": [
+      "camera"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "car",
+    "video_path": "gestures/car.mp4",
+    "aliases": [
+      "car"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "chair",
+    "video_path": "gestures/chair.mp4",
+    "aliases": [
+      "chair"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "child",
+    "video_path": "gestures/child.mp4",
+    "aliases": [
+      "child"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "clever",
+    "video_path": "gestures/clever.mp4",
+    "aliases": [
+      "clever"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "correct",
+    "video_path": "gestures/correct.mp4",
+    "aliases": [
+      "correct"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "dark",
+    "video_path": "gestures/dark.mp4",
+    "aliases": [
+      "dark"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "daughter",
+    "video_path": "gestures/daughter.mp4",
+    "aliases": [
+      "daughter"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "day",
+    "video_path": "gestures/day.mp4",
+    "aliases": [
+      "day"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "deaf",
+    "video_path": "gestures/deaf.mp4",
+    "aliases": [
+      "deaf"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "difficult",
+    "video_path": "gestures/difficult.mp4",
+    "aliases": [
+      "difficult"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "easy",
+    "video_path": "gestures/easy.mp4",
+    "aliases": [
+      "easy"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "face",
+    "video_path": "gestures/face.mp4",
+    "aliases": [
+      "face"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "family",
+    "video_path": "gestures/family.mp4",
+    "aliases": [
+      "family"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "fat",
+    "video_path": "gestures/fat.mp4",
+    "aliases": [
+      "fat"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "father",
+    "video_path": "gestures/father.mp4",
+    "aliases": [
+      "father"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "flower",
+    "video_path": "gestures/flower.mp4",
+    "aliases": [
+      "flower"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "food",
+    "video_path": "gestures/food.mp4",
+    "aliases": [
+      "food"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "foolish",
+    "video_path": "gestures/foolish.mp4",
+    "aliases": [
+      "foolish"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "friday",
+    "video_path": "gestures/friday.mp4",
+    "aliases": [
+      "friday"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "generous",
+    "video_path": "gestures/generous.mp4",
+    "aliases": [
+      "generous"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "girl",
+    "video_path": "gestures/girl.mp4",
+    "aliases": [
+      "girl"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "good",
+    "video_path": "gestures/good.mp4",
+    "aliases": [
+      "good"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "good_afternoon",
+    "video_path": "gestures/good_afternoon.mp4",
+    "aliases": [
+      "good afternoon"
+    ],
+    "type": "phrase"
+  },
+  {
+    "id": "good_evening",
+    "video_path": "gestures/good_evening.mp4",
+    "aliases": [
+      "good evening"
+    ],
+    "type": "phrase"
+  },
+  {
+    "id": "good_morning",
+    "video_path": "gestures/good_morning.mp4",
+    "aliases": [
+      "good morning"
+    ],
+    "type": "phrase"
+  },
+  {
+    "id": "grandfather",
+    "video_path": "gestures/grandfather.mp4",
+    "aliases": [
+      "grandfather"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "grandmother",
+    "video_path": "gestures/grandmother.mp4",
+    "aliases": [
+      "grandmother"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "greedy",
+    "video_path": "gestures/greedy.mp4",
+    "aliases": [
+      "greedy"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "happy",
+    "video_path": "gestures/happy.mp4",
+    "aliases": [
+      "happy"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "he",
+    "video_path": "gestures/he.mp4",
+    "aliases": [
+      "he"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "hearing",
+    "video_path": "gestures/hearing.mp4",
+    "aliases": [
+      "hearing"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "hello",
+    "video_path": "gestures/hello.mp4",
+    "aliases": [
+      "hello"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "house",
+    "video_path": "gestures/house.mp4",
+    "aliases": [
+      "house"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "how",
+    "video_path": "gestures/how.mp4",
+    "aliases": [
+      "how"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "how_are_you",
+    "video_path": "gestures/how_are_you.mp4",
+    "aliases": [
+      "how are you"
+    ],
+    "type": "phrase"
+  },
+  {
+    "id": "husband",
+    "video_path": "gestures/husband.mp4",
+    "aliases": [
+      "husband"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "i",
+    "video_path": "gestures/i.mp4",
+    "aliases": [
+      "i"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "i_don't_understand",
+    "video_path": "gestures/i_don_t_understand_anime.mp4",
+    "aliases": [
+      "I don't understand",
+      "I do not understand",
+      "don't understand",
+      "do not understand",
+      "i don't get it"
+    ],
+    "type": "phrase"
+  },
+  {
+    "id": "india",
+    "video_path": "gestures/india.mp4",
+    "aliases": [
+      "india"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "language",
+    "video_path": "gestures/language.mp4",
+    "aliases": [
+      "language"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "man",
+    "video_path": "gestures/man.mp4",
+    "aliases": [
+      "man"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "married",
+    "video_path": "gestures/married.mp4",
+    "aliases": [
+      "married"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "marry",
+    "video_path": "gestures/marry.mp4",
+    "aliases": [
+      "marry"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "monday",
+    "video_path": "gestures/monday.mp4",
+    "aliases": [
+      "monday"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "mother",
+    "video_path": "gestures/mother.mp4",
+    "aliases": [
+      "mother"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "namaste",
+    "video_path": "gestures/namaste.mp4",
+    "aliases": [
+      "namaste"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "no_fear",
+    "video_path": "gestures/no_fear.mp4",
+    "aliases": [
+      "no fear",
+      "fear no"
+    ],
+    "type": "phrase"
+  },
+  {
+    "id": "paper",
+    "video_path": "gestures/paper.mp4",
+    "aliases": [
+      "paper"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "peace",
+    "video_path": "gestures/peace.mp4",
+    "aliases": [
+      "peace"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "photo",
+    "video_path": "gestures/photo.mp4",
+    "aliases": [
+      "photo"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "place",
+    "video_path": "gestures/place.mp4",
+    "aliases": [
+      "place"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "please",
+    "video_path": "gestures/please.mp4",
+    "aliases": [
+      "please"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "question",
+    "video_path": "gestures/question.mp4",
+    "aliases": [
+      "question"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "remember",
+    "video_path": "gestures/remember.mp4",
+    "aliases": [
+      "remember"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "sad",
+    "video_path": "gestures/sad.mp4",
+    "aliases": [
+      "sad"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "saturday",
+    "video_path": "gestures/saturday.mp4",
+    "aliases": [
+      "saturday"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "she",
+    "video_path": "gestures/she.mp4",
+    "aliases": [
+      "she"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "short",
+    "video_path": "gestures/short.mp4",
+    "aliases": [
+      "short"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "sign",
+    "video_path": "gestures/sign.mp4",
+    "aliases": [
+      "sign"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "sister",
+    "video_path": "gestures/sister.mp4",
+    "aliases": [
+      "sister"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "son",
+    "video_path": "gestures/son.mp4",
+    "aliases": [
+      "son"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "sorry",
+    "video_path": "gestures/sorry.mp4",
+    "aliases": [
+      "sorry"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "strong",
+    "video_path": "gestures/strong.mp4",
+    "aliases": [
+      "strong"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "sunday",
+    "video_path": "gestures/sunday.mp4",
+    "aliases": [
+      "sunday"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "sweet",
+    "video_path": "gestures/sweet.mp4",
+    "aliases": [
+      "sweet"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "table",
+    "video_path": "gestures/table.mp4",
+    "aliases": [
+      "table"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "tall",
+    "video_path": "gestures/tall.mp4",
+    "aliases": [
+      "tall"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "teacher",
+    "video_path": "gestures/teacher.mp4",
+    "aliases": [
+      "teacher"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "thank_you_very_much",
+    "video_path": "gestures/thank_you_very_much_anime.mp4",
+    "aliases": [
+      "thank you very much",
+      "many thanks",
+      "thanks very much"
+    ],
+    "type": "phrase"
+  },
+  {
+    "id": "this",
+    "video_path": "gestures/this.mp4",
+    "aliases": [
+      "this"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "thursday",
+    "video_path": "gestures/thursday.mp4",
+    "aliases": [
+      "thursday"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "time",
+    "video_path": "gestures/time.mp4",
+    "aliases": [
+      "time"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "tree",
+    "video_path": "gestures/tree.mp4",
+    "aliases": [
+      "tree"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "tuesday",
+    "video_path": "gestures/tuesday.mp4",
+    "aliases": [
+      "tuesday"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "uncle",
+    "video_path": "gestures/uncle.mp4",
+    "aliases": [
+      "uncle"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "understand",
+    "video_path": "gestures/understand.mp4",
+    "aliases": [
+      "understand"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "weak",
+    "video_path": "gestures/weak.mp4",
+    "aliases": [
+      "weak"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "wednesday",
+    "video_path": "gestures/wednesday.mp4",
+    "aliases": [
+      "wednesday"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "week",
+    "video_path": "gestures/week.mp4",
+    "aliases": [
+      "week"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "welcome",
+    "video_path": "gestures/welcome.mp4",
+    "aliases": [
+      "welcome"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "what",
+    "video_path": "gestures/what.mp4",
+    "aliases": [
+      "what"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "when",
+    "video_path": "gestures/when.mp4",
+    "aliases": [
+      "when"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "where",
+    "video_path": "gestures/where.mp4",
+    "aliases": [
+      "where"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "which",
+    "video_path": "gestures/which.mp4",
+    "aliases": [
+      "which"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "who",
+    "video_path": "gestures/who.mp4",
+    "aliases": [
+      "who"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "why",
+    "video_path": "gestures/why.mp4",
+    "aliases": [
+      "why"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "wife",
+    "video_path": "gestures/wife.mp4",
+    "aliases": [
+      "wife"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "woman",
+    "video_path": "gestures/woman.mp4",
+    "aliases": [
+      "woman"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "work",
+    "video_path": "gestures/work.mp4",
+    "aliases": [
+      "work"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "wrong",
+    "video_path": "gestures/wrong.mp4",
+    "aliases": [
+      "wrong"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "yes",
+    "video_path": "gestures/yes.mp4",
+    "aliases": [
+      "yes"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "you",
+    "video_path": "gestures/you.mp4",
+    "aliases": [
+      "you"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "help_me_please",
+    "video_path": "gestures/help_me_please_anime.mp4",
+    "aliases": [
+      "help me please",
+      "help me",
+      "help please",
+      "please help"
+    ],
+    "type": "phrase"
+  },
+  {
+    "id": "what_happen",
+    "video_path": "gestures/what_happen_anime.mp4",
+    "aliases": [
+      "what happen",
+      "what happened",
+      "what is happening",
+      "what's happening"
+    ],
+    "type": "phrase"
+  }
+]
